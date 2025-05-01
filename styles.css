@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    background-color: #0f0f0f;
+    color: #f0f0f0;
+  }
+  
+  header {
+    padding: 2rem;
+    text-align: center;
+    background-color: #111;
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  header p {
+    color: #8f8f8f;
+  }
+  
+  section {
+    padding: 3rem 1.5rem;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  .services, .contact {
+    margin-top: 2rem;
+  }
+  
+  h2 {
+    color: #66ff99;
+  }
+  
+  .service-item {
+    margin-bottom: 1.5rem;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    background-color: #1a1a1a;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+  }
+  
+  .contact-form button {
+    padding: 0.75rem 2rem;
+    background-color: #66ff99;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #111;
+    color: #777;
+  }
+  .logo {
+    max-width: 120px;
+    margin-bottom: 1rem;
+  }
+  .intro {
+    max-width: 600px;
+    margin: 2rem auto 0;
+    text-align: center;
+  }
+  
+  .intro h2 {
+    color: #66ff99;
+    margin-bottom: 0.5rem;
+  }
+  
